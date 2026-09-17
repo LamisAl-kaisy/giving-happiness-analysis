@@ -1,0 +1,11 @@
+# PSID data files - not for public redistribution
+data/
+outputs/giving_happiness_clean.csv
+
+# Jupyter automatic checkpoint files
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python temporary files
+__pycache__/
+*.pyc
